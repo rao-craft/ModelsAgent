@@ -14,7 +14,7 @@ let modelsRecord: GraniteRoster.Record = { GraniteRoster.record(ModelsAgent.self
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/ModelsAgent.git`, then say `$models` in a request:
+`craft agents add https://github.com/rao-craft/ModelsAgent.git`, then say `$models` in a request:
 
 ```
 $models the recipe app's types: a Recipe with an id, title, minutes (30 by default), its cook,

@@ -48,7 +48,7 @@ comments, people and communities.
 ## Get it
 
 In Craft, install Models from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/ModelsAgent.git`, then say `$models` in a request.
+`craft agents add https://github.com/rao-craft/ModelsAgent.git`, then say `$models` in a request.
 
 ## Requirements
 
