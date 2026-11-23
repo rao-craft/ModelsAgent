@@ -14,5 +14,12 @@
   "platforms": [
     "macOS 14"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "illustrations": [
+    {
+      "path": "Assets/illustrations/what-you-get.png",
+      "alt": "A Shared/Models folder of four Swift files, the Course enum, and the Recipe struct with its conformances, an initializer with minutes defaulting to 30, and a preview value.",
+      "caption": "A Swift file per type, ready for JSON, SwiftUI and previews."
+    }
+  ]
 }
